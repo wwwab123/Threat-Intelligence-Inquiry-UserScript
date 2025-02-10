@@ -4,8 +4,10 @@
 其他情况下,选中md5、sha1、域名、IP也可以呼出菜单,hash类可以进行KSN云查或者VT查询,网络类的走微步查询. 支持GPT带安全名词翻译(碾压其他的翻译,网络安全专业对口翻译)  
 支持GPT以安全研究员身份进行总结与介绍  
 
-此项目基于a4k1r H(huoji)的[安全人员小助手](https://greasyfork.org/zh-CN/scripts/474072)维护和优化，遵照MIT协议开源。
-对原有的代码进行了优化和改良。
+**此项目基于a4k1r H(huoji)的[安全人员小助手](https://greasyfork.org/zh-CN/scripts/474072)维护和优化，遵照MIT协议开源**
+
+**对原有的代码进行了优化和改良**
+
 油猴地址: [点我跳转](https://greasyfork.org/zh-CN/scripts/526425)
 
 使用方法: 
