@@ -10,7 +10,7 @@
 
 油猴地址: [点我跳转](https://greasyfork.org/zh-CN/scripts/526425)
 
-关于本项目的问题可以在[GreasyFork](https://greasyfork.org/zh-CN/scripts/526425)、[GitHub](https://github.com/wwwab123/Threat-Intelligence-Inquiry-UserScript/issues)反馈
+关于本项目的问题可以在[GreasyFork](https://greasyfork.org/zh-CN/scripts/526425/feedback)、[GitHub](https://github.com/wwwab123/Threat-Intelligence-Inquiry-UserScript/issues)反馈
 
 使用方法: 
 
